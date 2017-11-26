@@ -1,0 +1,35 @@
+
+body {
+	background: #f8f8f8;
+	margin: 0;
+}
+
+.owl-main {
+
+}
+
+.owl-main .item {
+	width: 350px;
+	height: 400px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 40px rgba(0,0,0,0.2);
+	margin: 30px auto;
+}
+
+.owl-main .item.i-1 {
+	background: url(./img1.jpg);
+}
+
+.owl-main .item.i-2 {
+	background: url(./img2.jpg);
+}
+
+.owl-main .item.i-3 {
+	background: url(./img3.jpg);
+}
+
+.owl-main .item.i-4 {
+	background: url(./img4.jpg);
+}
+
+
